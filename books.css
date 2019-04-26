@@ -1,0 +1,18 @@
+
+body{
+  width: 100vw;
+  align-content: center;
+  text-align: center;
+}
+
+#book-data{
+  width: 80vw
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+
+.book-details{
+  width: 95vw;
+  margin-left: 2.5vw;
+  margin-right: 2.5vw;
+}
